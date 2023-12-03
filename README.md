@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codewithlgcy
+- 👋 Hi, I’m Incognito
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
